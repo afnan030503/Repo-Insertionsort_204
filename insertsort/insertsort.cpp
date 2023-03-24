@@ -43,7 +43,7 @@ void insertionsort() { // Prosedur insertionsort
 
         {
             arr[j + 1] = arr[j];    // 4a. Simpan arr[j] ke dalam variabel arr[j + 1] 
-            j--;                    // 4b. Decrement nilai j by 1
+            j--;                    // 4b. Decrement nilai j by 1 
         }
 
         arr[j + 1] = temp;          // 5. Simpan nilai temp ke dalam arr[j+1]
