@@ -54,3 +54,11 @@ void insertionsort() { // Prosedur insertionsort
         }
     }
 }
+
+void display() { // prosedur dsiplay
+    cout << endl; //output baris kosong
+    cout << "\n====================" << endl;  //output ke layar
+    cout << "Element Array Yang telah Tersusun" << endl; //output ke layar
+    cout << "======================" << endl; //output ke layar
+
+}
