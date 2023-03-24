@@ -11,7 +11,7 @@ void input() {   //prosedur untuk input
         cin >> n;      //memanggil variabel inputan n
 
         if (n <= 20) {   //membuat kondisi n tidak lebih dari 20
-            break; 
+            break;  
         }
         else
         {
