@@ -66,3 +66,10 @@ void display() { // prosedur dsiplay
     }
     cout << endl; //output baris kosong
 }
+
+int main()
+{
+    input(); // memanggil input
+    insertionsort();// memanggil  insertionsort
+    display();// memanggil display
+}
