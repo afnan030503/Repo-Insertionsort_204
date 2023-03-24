@@ -13,8 +13,8 @@ void input() {   //prosedur untuk input
         if (n <= 20) {   //membuat kondisi n tidak lebih dari 20
             break; 
         }
-        else 
-        {       
+        else
+        {
             cout << "\nArray dapat mempunyai maksimal 20 eleman.\n";  //output ke layar
         }
     }
